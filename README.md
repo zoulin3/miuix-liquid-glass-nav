@@ -35,9 +35,7 @@ sh scripts/install-glass-ui.sh <工程根目录> <目标包名>
 
 ## 来源与致谢
 
-- [Miuix](https://github.com/miuix-kotlin/miuix) —— UI 组件库与主题
-- [KernelSU](https://github.com/tiann/KernelSU) —— 液态玻璃底栏的原始实现（`manager/app/src/main/java/me/weishu/kernelsu/ui/`）
-
-本仓库只做整理与文档化。
 - [Miuix](https://github.com/compose-miuix-ui/miuix) —— UI 组件库与主题（本 skill 基于 `0657575`）
 - [KernelSU](https://github.com/tiann/KernelSU) —— 液态玻璃底栏的原始实现（本 skill 基于 `24d9bc3`，`manager/app/src/main/java/me/weishu/kernelsu/ui/`）
+
+本仓库只做整理与文档化。
